@@ -5,7 +5,7 @@ This project demonstrates using ZeroMQ to load balance between two docker contai
 
 The following diagram shows the interaction:
 
-![Overview Diagram](https://github.com/samirarabbanian/software_upgrade.git/overviewDiagram_2014_02_14.png)
+![Overview Diagram](https://github.com/samirarabbanian/software_upgrade/raw/master/overviewDiagram_2014_02_14.png)
 
 To start docker and the ZeroMQ load balancer use:
 
